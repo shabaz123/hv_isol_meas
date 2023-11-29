@@ -9,7 +9,9 @@ This repository contains hardware files for constructing an isolated high voltag
 Specifications (currently untested)
 -----------------------------------
 
-HV Input: Up to +-550V (1100V p-p)
+HV Input: Up to +-550V (1100V p-p in bipolar mode) or 0-1200V (unipolar mode). The mode is set using two resistors (see the notes in the circuit diagram)
+
+Input Load: 1uA
 
 Frequency Response: DC to 125 kHz
 
