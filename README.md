@@ -27,6 +27,9 @@ Bill of Materials
 -----------------
 
 [Click here for PDF BoM](https://github.com/shabaz123/hv_isol_meas/blob/main/hv-isol-meas-bom-rev1.pdf)
+
+The order codes in the last column are Farnell order codes.
+
 | Item | Qty | Reference(s)                           | Value          | Description                                                    | MPN                    | Order Code           |
 |------|-----|----------------------------------------|----------------|----------------------------------------------------------------|------------------------|----------------------|
 | 1    | 9   | C1, C2, C3, C5, C6, C13, C16, C17, C18 | 1u             | Cap 0805                                                       | GENERIC                | 3369302              |
@@ -72,6 +75,11 @@ Top Side:
 
 Underside:
 <img width="100%" align="left" src="doc\3drenderunderside.png">
+
+Enclosure
+---------
+Optionally, the board can be fitted into the following enclosure:
+<img width="100%" align="left" src="doc\enclosure.jpg">
 
 
 PCB CAM Files (Gerber Files)
