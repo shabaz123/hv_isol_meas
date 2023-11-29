@@ -73,3 +73,11 @@ Top Side:
 Underside:
 <img width="100%" align="left" src="doc\3drenderunderside.png">
 
+
+PCB CAM Files (Gerber Files)
+----------------------------
+[Click here for Gerber zip file](https://github.com/shabaz123/hv_isol_meas/blob/main/hv-isol-meas-gerbers-rev1.zip) that can be sent to any PCB factory.
+
+KiCad Source Files
+------------------
+Download the entire repo and the KiCad 7 files will be in the kicad_src subdirectory.
