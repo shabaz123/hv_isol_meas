@@ -98,6 +98,7 @@ Issues
 ------
 1. C20 (1uF) is missing from the rev 1.0 board. The photo here shows where to solder it. One end of the capacitor is soldered to the choke L5, and the other end needs to be connected to 0V. The easiest way to access 0V is to scratch off some of the solder mask on the copper pour, and then solder the capacitor to it.
 <img width="100%" align="left" src="doc\c20-fix-photo.jpg">
+<img width="100%" align="left" src="doc\c20-fix-sch.jpg">
 
 2. The linear optocoupler (OPTO1) footprint is too narrow on the rev 1.0 board : ( The only fix is to use small pliers to bend the SMD optocoupler legs inwards instead of outwards, and then push the vertical parts of the legs inwards too.
 <img width="100%" align="left" src="doc\opto-fix-photo.jpg">
