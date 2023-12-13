@@ -46,7 +46,7 @@ The order codes in the last column are Farnell order codes.
 | 10   | 3   | L1, L2, L3                             | 2mH            | CM Choke 9.2x6mm Example: SRF0905A-202Y                        | SRF0905A-202Y          | 4203907              |
 | 11   | 2   | L4, L5                                 | 200uH          | CM Choke 1210 Example: DLW32MH201XK2L                          | DLW32MH201XK2L         | 2913625              |
 | 12   | 1   | OPTO1                                  | HCNR200-300E   | Linear Optocoupler SMD                                         | HCNR200-300E           | 8549710              |
-| 13   | 3   | R1, R2, R4                             | 47k            | Res 0805                                                       | GENERIC                | 9237836              |
+| 13   | 3   | R1, R4                                 | 47k            | Res 0805                                                       | GENERIC                | 9237836              |
 | 14   | 1   | R3                                     | 300R           | Res 0805                                                       | GENERIC                | 4177753              |
 | 15   | 5   | R5, R8, R9, R13, R16                   | 1k             | Res 0805                                                       | GENERIC                | 1469847              |
 | 16   | 1   | R6                                     | 100k           | Res 0805                                                       | GENERIC                | 1469860              |
@@ -60,7 +60,7 @@ The order codes in the last column are Farnell order codes.
 | 24   | 1   | U4                                     | 5V DC-DC Isol. | DC-DC 5Vin, +-5Vout Traco TMA, TBA, TMR 2, XP IAxxxxS, IHxxxxS | TMA 0505D              | 1007514              |
 | 25   | 1   | U6                                     | TPS60403       | Voltage Inverter Charge Pump SOT23-5                           | TPS60403DBV            | 3123050              |
 | 26   | 1   | R18                                    | 47R            | Res 0805                                                       | GENERIC                | 1653007              |
-
+| 27   | 1   | R2                                     | 0R             | Res 0805 0-ohm                                                 | GENERIC                | 1653007              |
 
 
 Board Layout
