@@ -60,7 +60,7 @@ The order codes in the last column are Farnell order codes.
 | 24   | 1   | U4                                     | 5V DC-DC Isol. | DC-DC 5Vin, +-5Vout Traco TMA, TBA, TMR 2, XP IAxxxxS, IHxxxxS | TMA 0505D              | 1007514              |
 | 25   | 1   | U6                                     | TPS60403       | Voltage Inverter Charge Pump SOT23-5                           | TPS60403DBV            | 3123050              |
 | 26   | 1   | R18                                    | 47R            | Res 0805                                                       | GENERIC                | 1653007              |
-| 27   | 1   | R2                                     | 0R             | Res 0805 0-ohm                                                 | GENERIC                | 1653007              |
+| 27   | 1   | R2                                     | 0R             | Res 0805 0-ohm                                                 | GENERIC                | 1469846              |
 
 
 Board Layout
