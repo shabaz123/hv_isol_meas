@@ -48,7 +48,7 @@ The order codes in the last column are Farnell order codes.
 | 12   | 1   | OPTO1                                  | HCNR200-300E   | Linear Optocoupler SMD                                         | HCNR200-300E           | 8549710              |
 | 13   | 2   | R1, R4                                 | 47k            | Res 0805                                                       | GENERIC                | 9237836              |
 | 14   | 1   | R3                                     | 300R           | Res 0805                                                       | GENERIC                | 4177753              |
-| 15   | 5   | R5, R8, R9, R13, R16                   | 1k             | Res 0805                                                       | GENERIC                | 1469847              |
+| 15   | 3   | R5, R8, R13                            | 1k             | Res 0805                                                       | GENERIC                | 1469847              |
 | 16   | 1   | R6                                     | 100k           | Res 0805                                                       | GENERIC                | 1469860              |
 | 17   | 1   | R11                                    | 39k            | Res 0805                                                       | GENERIC                | 1576482              |
 | 18   | 2   | R14, R15                               | 82k            | Res 0805                                                       | GENERIC                | 2447729              |
@@ -61,6 +61,7 @@ The order codes in the last column are Farnell order codes.
 | 25   | 1   | U6                                     | TPS60403       | Voltage Inverter Charge Pump SOT23-5                           | TPS60403DBV            | 3123050              |
 | 26   | 1   | R18                                    | 47R            | Res 0805                                                       | GENERIC                | 1653007              |
 | 27   | 1   | R2                                     | 0R             | Res 0805 0-ohm                                                 | GENERIC                | 1469846              |
+| 28   | 2   | FB1, FB2                               | Ferrite Bead   | Ferrite Bead 0805, example is MMZ2012Y102BT000                 | GENERIC                | 1669727              |
 
 
 Board Layout
