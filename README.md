@@ -23,7 +23,7 @@ Power Source: 5V DC
 Circuit Diagram
 ---------------
 [Click here for PDF schematic](https://github.com/shabaz123/hv_isol_meas/blob/main/hv-isol-meas-schematic-rev1.pdf)
-<img width="100%" align="left" src="doc\sch-rev1.png">
+<img width="100%" align="left" src="doc\sch-rev1-1.png">
 
 Bill of Materials
 -----------------
